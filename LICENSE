@@ -4,8 +4,11 @@ Sirco Proprietary License Agreement
 Version: 1.0 October 25th 2025
 
 1. Parties and Scope
-This Sirco Proprietary License Agreement (“Agreement”) is between Sirco (“Sirco,” “we,” or “us”) and you (“you” or “Licensee”). It governs your use of Sirco’s proprietary software, including Aurora Gateway and Firewall Freedom, together with any related updates, assets, and documentation (collectively, the “Software”).
-By downloading, installing, accessing, or using the Software, you agree to be bound by this Agreement. If you do not agree, do not use the Software.
+This Sirco Proprietary License Agreement (“Agreement”) is between Sirco and you. For the purposes of this Agreement:
+- "Sirco", "we", or "us" means Sirco and includes Sirco-web and any of their affiliated entities, successors, and assigns (collectively “Sirco”).
+- "You" or "Licensee" means the individual or entity that downloads, installs, accesses, or uses the Software, and explicitly includes any user affiliated with Sirco or Sirco-web (including employees, contractors, agents, partners, subsidiaries, or other related persons or entities) (collectively “Licensee”).
+
+This Agreement governs your use of Sirco’s proprietary software, including Aurora Gateway and Firewall Freedom, together with any related updates, assets, and documentation (collectively, the “Software”). By downloading, installing, accessing, or using the Software, you agree to be bound by this Agreement. If you do not agree, do not use the Software.
 
 2. License Grant
 Subject to your continuous compliance with this Agreement, Sirco grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable license to install and use the Software solely for personal, non-commercial purposes. No rights are granted except as expressly stated in this Agreement.
@@ -32,7 +35,7 @@ THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.” SIRCO DISCLAIMS ALL
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, SIRCO WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES; LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL; OR BUSINESS INTERRUPTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SIRCO’S TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED US$50 OR THE AMOUNT YOU PAID (IF ANY) FOR THE SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM, WHICHEVER IS GREATER. SOME JURISDICTIONS DO NOT ALLOW CERTAIN LIMITATIONS; IN SUCH CASES, THE LIMITATIONS APPLY TO THE FULLEST EXTENT PERMITTED.
 
 8. Enforcement and Termination
-Sirco may suspend or terminate this license immediately if you breach this Agreement. Upon termination, you must cease all use, uninstall and destroy all copies of the Software, and, upon request, certify destruction. Sirco reserves all rights and remedies at law and in equity.
+Sirco (including Sirco-web and their affiliates) may suspend or terminate this license immediately if you breach this Agreement. Upon termination, you must cease all use, uninstall and destroy all copies of the Software, and, upon request, certify destruction. Sirco reserves all rights and remedies at law and in equity.
 
 9. Compliance
 Upon reasonable notice, and no more than once per year, Sirco may request written certification of your compliance or conduct a limited review of your use of the Software to verify compliance.
